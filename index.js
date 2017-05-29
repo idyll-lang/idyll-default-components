@@ -5,6 +5,7 @@ module.exports = {
   boolean: require('./components/boolean.js'),
   button: require('./components/button.js'),
   chart: require('./components/chart.js'),
+  codepen: require('./components/codepen.js'),
   'display-var': require('./components/display-var.js'),
   dynamic: require('./components/dynamic.js'),
   equation: require('./components/equation.js'),
